@@ -7,7 +7,6 @@
 
 #include <stdio.h>
 #include <mem.h>
-#include "searchAlgorithmsForCEP.h"
 
 /* Valor que define término do programa por motivos de erro no argumento passado para este programa. */
 #define ARG_ERROR 1
